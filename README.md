@@ -79,7 +79,7 @@ graph TD
 
 **Course**: COMP-8510 Visual Processing  
 **Institution**: University of Windsor  
-**Presenter**: Shaurya Parshad (SID: 110191553)  
+**Presenter**: Shaurya Parshad
 **Date**: September 2025
 
 ## License
