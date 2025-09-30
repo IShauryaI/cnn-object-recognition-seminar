@@ -72,7 +72,6 @@ graph TD
 
 2. Berrios, W., & Deza, A. (2022). *Joint Rotational Invariance and Adversarial Training of a Dual-Stream Transformer Yields State of the Art Brain-Score for Area V4*.
 
-📄 **[Primary Paper PDF](./references/ddp-framework-2023.pdf)**  
 📄 **[BibTeX Citations](./references/citations.bib)**
 
 ## Course Information
